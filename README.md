@@ -6,6 +6,7 @@ To perform and verify DFT using FFT-ALGORITHM by SCILAB.
 PC installed with SCILAB
 ## PROGRAM 
 ### DFT FFT-ALGORITHM
+```scilab
 clc;
 clear;
 clf;
