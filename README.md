@@ -46,7 +46,7 @@ xtitle("Inverse FFT Output", "n", "x(n)");
 <img width="1000" height="1600" alt="image" src="https://github.com/user-attachments/assets/95dbbc89-1219-4af5-a2d3-d36af8f22b71" />
 <img width="1013" height="1600" alt="image" src="https://github.com/user-attachments/assets/0252b76f-80ea-4c26-89a7-eaa1dd857d42" />
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/879b64c5-9ffa-4bd9-a23c-64eb03a8b2bd" />
-
+```
 ### SAMPLE OUTPUT:
 <br>
 <img width="1080" height="1378" alt="image" src="https://github.com/user-attachments/assets/148530c8-09c9-4da4-87f0-72f4f4c1cf65" />
